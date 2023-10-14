@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\obj\Debug\net6.0\NaveJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\obj\Debug\net6.0\NaveJuego.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\obj\Debug\net6.0\NaveJuego.AssemblyInfo.cs
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\obj\Debug\net6.0\NaveJuego.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\bin\Debug\net6.0\NaveJuego.exe
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\bin\Debug\net6.0\NaveJuego.deps.json
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\bin\Debug\net6.0\NaveJuego.runtimeconfig.json
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\bin\Debug\net6.0\NaveJuego.dll
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\bin\Debug\net6.0\NaveJuego.pdb
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\obj\Debug\net6.0\NaveJuego.dll
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\obj\Debug\net6.0\refint\NaveJuego.dll
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\obj\Debug\net6.0\NaveJuego.pdb
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\obj\Debug\net6.0\NaveJuego.genruntimeconfig.cache
+C:\Users\USER\source\repos\NaveJuego\NaveJuego\obj\Debug\net6.0\ref\NaveJuego.dll
